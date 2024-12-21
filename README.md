@@ -18,7 +18,7 @@ Install required dependencies.
 Create a .env file and add your API key.
 
 Known Issues:
-Make sure tge .env file is properly configured and ignored by Git.
+Make sure the .env file is properly configured and ignored by Git.
 If you get a 401 unauthorised error, check your API key or account permissions on OpenWeatherApp.
 
 Licence:
